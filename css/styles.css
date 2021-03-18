@@ -21,7 +21,7 @@ body {
 
 @media (max-width: 768px) {
   .intro-left {
-    height: 30vh;
+    height: 40vh;
     margin-bottom: 0;
     position: relative;
     width: 100%;
